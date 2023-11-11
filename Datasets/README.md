@@ -11,3 +11,5 @@
 The structure closely follows the classic MNIST format, where each training and test case corresponds to a label (0-25) mapped to each alphabetic letter A-Z.
 
 ![amer_sign3](https://github.com/damodaramPv/ML_project/assets/124876857/5af8215c-48bf-4ce1-a312-7f7a164cad73)
+
+The dataset is obtained from: https://www.kaggle.com/datasets/datamunge/sign-language-mnist/download?datasetVersionNumber=1
